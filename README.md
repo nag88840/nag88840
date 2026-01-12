@@ -1,7 +1,7 @@
 ## Hello! 👋 I'm NAGARAJ K BASARIKATTI
 
 ### About Me
-🚀 Driven Full Stack Java Developer Trainee seeking a position as a Full Stack Java Developer.
+🚀 Driven Full Stack Java Developer seeking a position as a Full Stack Java Developer.
 
 📚 Committed to continuous learning and growth with a proactive mindset.
 
